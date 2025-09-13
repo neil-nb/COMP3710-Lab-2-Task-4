@@ -1,1 +1,2 @@
 # COMP3710-Lab-2-Task-4
+This repository is dedicated to Task 4 alone. If you want to find Tasks 1-3, you'll find them in the [COMP3710-Lab-2](https://github.com/neil-nb/COMP3710-Lab-2) repository.
