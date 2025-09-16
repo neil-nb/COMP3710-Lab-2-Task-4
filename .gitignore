@@ -1,1 +1,4 @@
 oasis/
+.venv
+.conda
+old
