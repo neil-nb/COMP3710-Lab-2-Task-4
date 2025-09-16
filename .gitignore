@@ -2,3 +2,4 @@ oasis/
 .venv
 .conda
 old
+cifar10
