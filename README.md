@@ -1,2 +1,2 @@
 # COMP3710-Lab-2-Task-4
-This repository is dedicated to Task 4 and an alternate approach to the DAWNBench task. If you want to find Tasks 1-3, you'll find them in the [COMP3710-Lab-2](https://github.com/neil-nb/COMP3710-Lab-2) repository.
+This repository is dedicated to Task 4 and the DAWNBench task. If you want to find Tasks 1-3, you'll find them in the [COMP3710-Lab-2](https://github.com/neil-nb/COMP3710-Lab-2) repository.
